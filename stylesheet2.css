@@ -16,3 +16,9 @@ h1 {
 	font-size: 64px;
 	font-family: Impact;
 }
+
+a {
+	position: fixed;
+	top: 15px;
+	right: 15px;
+}

@@ -28,3 +28,10 @@ img {
 .footer {
 	clear: both;
 }
+
+a {
+	position: fixed;
+	top: 15px;
+	right: 15px;
+	color: lightyellow;
+}
