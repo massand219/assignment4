@@ -1,0 +1,30 @@
+img {
+	float: left;
+	width: 200px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border: 5px solid black;
+}
+
+.column1, .column2, .column3 {
+	float: left;
+	width: 33.3%;
+	padding: 15px;
+	font-family: Verdana;
+	background-color: #f6c467;
+	box-sizing: border-box;
+}
+
+.header, .footer {
+	width: 100%;
+	height: 100px;
+	background-color: navy;
+	color: orange;
+	font-family: Arial black;
+	text-align: center;
+	font-size: 32px;
+}
+
+.footer {
+	clear: both;
+}
