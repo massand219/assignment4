@@ -1,0 +1,17 @@
+.navigation, .navigation2 {
+    color: #5a5a5a;
+    font-size: 11px;
+    font-weight: bold;
+    padding: 14px 10px 14px 10px;
+    text-transform: uppercase;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navigation li {
+	display: inline;
+}
+
+.navigation2 li {
+	display: inline;
+}
